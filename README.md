@@ -3,6 +3,6 @@ This is a Sales Dashboard of a Bicycle Store where I have applied the skills tha
 
 Hope you like this Dashboard, I'll upload more dashboards in comming time. Thankyou.
 
-Datasets are provided for practice purpose. Go through the dashboard and see how measures are created, how calculated columns are created, how to model data, etc
+Dataset is provided along with my Dashboard that is in the form of pbix file(Power BI). Go through the dashboard and see how measures are created, how calculated columns are created, how to model data, etc
 
 
